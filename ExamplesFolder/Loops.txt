@@ -1,0 +1,8 @@
+LOOPS - AS LONG AS A STATEMNT IS TRUE 
+while loop
+
+one 1
+while (one,100):
+	one += 1
+	pirnt one
+print"done"
